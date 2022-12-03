@@ -2,4 +2,4 @@
 AoC 2022
 
 * day 1 - Haskell
-* day 2 - 
+* day 2 - Python
