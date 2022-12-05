@@ -12,4 +12,5 @@ To run it, in each folder, just fire `make a` or `make b` to part 1 and part 2 r
 -   day 2 - [Python](day_2/)
 -   day 3 - [Java](day_3/)
 -   day 4 - [Kotlin](day_4/)
+-   day 5 - [Nim](day_5/)
 -   to be continue...
