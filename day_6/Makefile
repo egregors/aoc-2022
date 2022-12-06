@@ -1,0 +1,2 @@
+ab:
+	@lua ab.lua
