@@ -14,4 +14,5 @@ To run it, in each folder, just fire `make a` or `make b` to part 1 and part 2 r
 -   day 4 - [Kotlin](day_4/)
 -   day 5 - [Nim](day_5/)
 -   day 6 - [Lua](day_6/)
+-   day 7 - [Julia](day_7)
 -   to be continue...

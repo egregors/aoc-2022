@@ -1,0 +1,2 @@
+ab:
+	@julia ab.jl
