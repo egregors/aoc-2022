@@ -1,0 +1,2 @@
+ab:
+	@node ab.js
