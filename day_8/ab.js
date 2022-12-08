@@ -14,9 +14,8 @@ var data = fs
     .map((line) =>
         line
             .split(" ")
-            .map(Number)
             .map((el) => {
-                return { val: el, vis: false };
+                return { val: Number(el), vis: false };
             })
     );
 
